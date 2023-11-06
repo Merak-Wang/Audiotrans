@@ -1,0 +1,41 @@
+test_transcribe.py-21-2023-11-06 12:30:47,629-INFO-检查测试文件是否正常存在
+test_transcribe.py-21-2023-11-06 12:31:56,163-INFO-检查测试文件是否正常存在
+test_transcribe.py-23-2023-11-06 12:31:56,163-INFO-应存在文件列表：['test001.mp3']['test001.mp3']['test001.mp3']  扫描到文件列表：['test001.mp3']
+test_transcribe.py-53-2023-11-06 12:31:56,165-INFO-检查默认参数生成字幕
+transcribe.py-32-2023-11-06 12:31:56,165-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:31:56,165-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-75-2023-11-06 12:31:56,249-INFO-检查--lang='en'参数生成字幕
+transcribe.py-32-2023-11-06 12:31:56,249-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:31:56,249-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-111-2023-11-06 12:31:56,293-INFO-检查--encoding参数生成字幕
+transcribe.py-32-2023-11-06 12:31:56,294-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:31:56,294-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-87-2023-11-06 12:31:56,340-INFO-检查--force参数生成字幕
+transcribe.py-32-2023-11-06 12:31:56,340-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:31:56,340-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-64-2023-11-06 12:31:56,386-INFO-检查默认参数跳过生成字幕
+transcribe.py-32-2023-11-06 12:31:56,387-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:31:56,387-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-125-2023-11-06 12:31:56,430-INFO-检查--vad参数生成字幕
+transcribe.py-32-2023-11-06 12:31:56,430-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:31:56,430-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-21-2023-11-06 12:51:53,518-INFO-检查测试文件是否正常存在
+test_transcribe.py-23-2023-11-06 12:51:53,518-INFO-应存在文件列表：['test001.mp3']['test001.mp3']['test001.mp3']  扫描到文件列表：['test001.mp3']
+test_transcribe.py-53-2023-11-06 12:51:53,520-INFO-检查默认参数生成字幕
+transcribe.py-32-2023-11-06 12:51:53,520-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:51:53,521-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-75-2023-11-06 12:51:53,565-INFO-检查--lang='en'参数生成字幕
+transcribe.py-32-2023-11-06 12:51:53,565-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:51:53,566-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-111-2023-11-06 12:51:53,610-INFO-检查--encoding参数生成字幕
+transcribe.py-32-2023-11-06 12:51:53,610-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:51:53,610-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-87-2023-11-06 12:51:53,655-INFO-检查--force参数生成字幕
+transcribe.py-32-2023-11-06 12:51:53,655-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:51:53,655-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-64-2023-11-06 12:51:53,698-INFO-检查默认参数跳过生成字幕
+transcribe.py-32-2023-11-06 12:51:53,698-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:51:53,698-INFO-Transcribing ./media/test001.mp3
+test_transcribe.py-125-2023-11-06 12:51:53,742-INFO-检查--vad参数生成字幕
+transcribe.py-32-2023-11-06 12:51:53,742-INFO-Done Init model in 0.0 sec
+transcribe.py-36-2023-11-06 12:51:53,742-INFO-Transcribing ./media/test001.mp3
